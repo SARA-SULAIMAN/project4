@@ -5,6 +5,10 @@ This project is one of the projects in my Data Science Nano-degree at Udacity. a
 here is the blog post :
 https://medium.com/@sarasulaiman997/sparkify-and-churn-191f6217f3f4
 
+# project motivation 
+
+Sparkify is not real it is just an imaginary digital music streaming service similar to Spotify or Apple Music, so in this project i tried to choose the best machine learning model to help predict user and engineer relevant features that help with that using PySpark.
+
 # Three models were trained with this data , and the accuracies are :
 
 random forest classifier model :
